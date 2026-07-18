@@ -9,15 +9,6 @@ A simple Python project for organizing and managing pages/files. This repository
 - Lightweight and easy to extend
 - Git-ready project
 
-## 📂 Project Structure
-
-```text
-pages/
-│── .venv/              # Virtual environment (not tracked)
-│── ...                 # Project source files
-│── README.md
-│── requirements.txt    # (if applicable)
-```
 
 ## 🛠️ Requirements
 
